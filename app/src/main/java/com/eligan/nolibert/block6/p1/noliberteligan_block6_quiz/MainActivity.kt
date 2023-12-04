@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var asd = 0
+        var quiz = 10
     }
 }
